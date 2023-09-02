@@ -2,7 +2,6 @@ package shrai.ee.buttonclickapp
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import android.os.PersistableBundle
 import android.text.method.ScrollingMovementMethod
 import android.util.Log
 import android.widget.Button
